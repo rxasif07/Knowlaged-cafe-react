@@ -1,0 +1,53 @@
+[
+    {
+      "title": "Exploring the Future of Technology",
+      "iD": "12345",
+      "cover": "https://i.ibb.co/hX5CFR7/desk-concept-frame-with-items.jpg",
+      "author": "Emily Smith",
+      "author_img": "https://i.ibb.co/ZJFg4B6/sasuke-03.png",
+      "posted_Date": "2023-08-15",
+      "reading_Time": 7,
+      "hashtags": ["Technology", "Innovation", "AI"]
+    },
+    {
+      "title": "A Journey Through Uncharted Lands",
+      "iD": "67890",
+      "cover": "https://i.ibb.co/Y7Z9Mzq/top-view-desk-concept-with-coffee.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/z4Qy4ch/naruto-profile-pictures-7ozcd3ax5qqokf4q.jpg",
+      "posted_Date": "2023-08-20",
+      "reading_Time": 5,
+      "hashtags": ["Travel", "Adventure", "Explore"]
+    },
+    {
+      "title": "Delicious Recipes for Every Foodie",
+      "iD": "54321",
+      "cover": "https://i.ibb.co/yFYGH3j/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author": "Sarah Johnson",
+      "author_img": "https://i.ibb.co/ZJFg4B6/sasuke-03.png",
+      "posted_Date": "2023-08-25",
+      "reading_Time": 8,
+      "hashtags": ["Foodie", "Recipes", "Cooking"]
+    },
+    {
+      "title": "Achieve Your Fitness Goals with These Tips",
+      "iD": "98765",
+      "cover": "https://i.ibb.co/z4Qy4ch/naruto-profile-pictures-7ozcd3ax5qqokf4q.jpg",
+      "author": "David Williams",
+      "author_img": "https://example.com/david.jpg",
+      "posted_Date": "2023-08-30",
+      "reading_Time": 6,
+      "hashtags": ["Fitness", "Health", "Wellness"]
+    },
+    {
+      "title": "Fashion Trends: What's Hot This Season",
+      "iD": "13579",
+      "cover": "https://i.ibb.co/Y7Z9Mzq/top-view-desk-concept-with-coffee.jpg",
+      "author": "Lisa Anderson",
+      "author_img": "https://i.ibb.co/ZJFg4B6/sasuke-03.png",
+      "posted_Date": "2023-09-05",
+      "reading_Time": 9,
+      "hashtags": ["Fashion", "Style", "Trends"]
+    }
+  ]
+  
